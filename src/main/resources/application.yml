@@ -12,7 +12,7 @@ eureka:
     registerWithEureka: false
     fetchRegistry: false
 server:
-  port: 8999
+  port: 8761
 logging:
   level:
     root: info

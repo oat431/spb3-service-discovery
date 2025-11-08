@@ -5,4 +5,4 @@ services:
     container_name: panomete-service-discovery
     restart: always
     ports:
-      - "8999:8999"
+      - "8761:8761"
