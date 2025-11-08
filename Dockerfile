@@ -1,5 +1,5 @@
 FROM azul/zulu-openjdk:21
-EXPOSE 8999
+EXPOSE 8761
 
 ARG DEPENDENCY=build
 COPY ${DEPENDENCY}/BOOT-INF/lib /app/lib
