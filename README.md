@@ -1,4 +1,4 @@
-# Getting Started
+# Spring Boot 4 Service Discovery Server
 
 ### Reference Documentation
 
