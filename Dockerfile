@@ -1,4 +1,4 @@
-FROM azul/zulu-openjdk:21
+FROM azul/zulu-openjdk:25
 EXPOSE 8761
 
 ARG DEPENDENCY=build
